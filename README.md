@@ -1,5 +1,9 @@
 # Scrap Adda
 
+🚀 **[OPEN LIVE PROTOTYPE →](https://kartiksharmakanu0507-afk.github.io/Scrapadda-/)**
+
+> Smart India Hackathon 2026 — Scrap & E-Waste Management Platform
+
 ### Smart India Hackathon 2026 — Scrap & E-Waste Management Platform
 
 Scrap Adda is a digital platform concept designed to connect informal scrap collectors, aggregators, and authorized recyclers through a more transparent and traceable digital workflow.
@@ -42,13 +46,7 @@ REVERSE AUCTION
    ↓
 VERIFY & SYNC
    ↓
-PAYMENT
-
-
-LIVE PROTYPE
-https://kartiksharmakanu0507-afk.github.io/Scrapadda-/
-
-
+PAYMENt
    ↓
 DIGITAL RECEIPT
    ↓
