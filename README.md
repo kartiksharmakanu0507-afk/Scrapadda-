@@ -43,6 +43,12 @@ REVERSE AUCTION
 VERIFY & SYNC
    ↓
 PAYMENT
+
+
+LIVE PROTYPE
+https://kartiksharmakanu0507-afk.github.io/Scrapadda-/
+
+
    ↓
 DIGITAL RECEIPT
    ↓
